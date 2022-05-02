@@ -1,0 +1,321 @@
+fileFormatVersion: 2
+guid: ac7344991f4164b4199313c4b963f2c9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3951584615270568520
+    second: Turtle_TopDown_64x64_SpriteSheet_powerup_white_bg 1_0
+  - first:
+      213: 678213713481539319
+    second: Turtle_TopDown_64x64_SpriteSheet_powerup_white_bg 1_1
+  - first:
+      213: 3513706296373888493
+    second: Turtle_TopDown_64x64_SpriteSheet_powerup_white_bg 1_2
+  - first:
+      213: 2801510885736362961
+    second: Turtle_TopDown_64x64_SpriteSheet_powerup_white_bg 1_3
+  - first:
+      213: -3272668065146663044
+    second: Turtle_TopDown_64x64_SpriteSheet_powerup_white_bg 1_4
+  - first:
+      213: -8584950856109133737
+    second: Turtle_TopDown_64x64_SpriteSheet_powerup_white_bg 1_5
+  - first:
+      213: 7243615411776907619
+    second: Turtle_TopDown_64x64_SpriteSheet_powerup_white_bg 1_6
+  - first:
+      213: 6211155203577468143
+    second: Turtle_TopDown_64x64_SpriteSheet_powerup_white_bg 1_7
+  - first:
+      213: -3706261035959143315
+    second: Turtle_TopDown_64x64_SpriteSheet_powerup_white_bg 1_8
+  - first:
+      213: -7171854415772023275
+    second: Turtle_TopDown_64x64_SpriteSheet_powerup_white_bg 1_9
+  - first:
+      213: -5453431023772475724
+    second: Turtle_TopDown_64x64_SpriteSheet_powerup_white_bg 1_10
+  - first:
+      213: -1214238243877905250
+    second: Turtle_TopDown_64x64_SpriteSheet_powerup_white_bg 1_11
+  - first:
+      213: 66019503812731774
+    second: Turtle_TopDown_64x64_SpriteSheet_powerup_white_bg 1_12
+  - first:
+      213: -4851503293797464167
+    second: Turtle_TopDown_64x64_SpriteSheet_powerup_white_bg 1_13
+  - first:
+      213: -2986607094772560080
+    second: Turtle_TopDown_64x64_SpriteSheet_powerup_white_bg 1_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Turtle_TopDown_64x64_SpriteSheet_powerup_white_bg 1_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de54b68924133c030800000000000000
+      internalID: 3513706296373888493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle_TopDown_64x64_SpriteSheet_powerup_white_bg 1_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3b4babe47f0e620800000000000000
+      internalID: 2801510885736362961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle_TopDown_64x64_SpriteSheet_powerup_white_bg 1_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369e184b6dd768460800000000000000
+      internalID: 7243615411776907619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle_TopDown_64x64_SpriteSheet_powerup_white_bg 1_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4dd02efb4723650800000000000000
+      internalID: 6211155203577468143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle_TopDown_64x64_SpriteSheet_powerup_white_bg 1_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be52fc90658154b0800000000000000
+      internalID: -5453431023772475724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle_TopDown_64x64_SpriteSheet_powerup_white_bg 1_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c96f020c8262fe0800000000000000
+      internalID: -1214238243877905250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle_TopDown_64x64_SpriteSheet_powerup_white_bg 1_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997809a657ffbacb0800000000000000
+      internalID: -4851503293797464167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtle_TopDown_64x64_SpriteSheet_powerup_white_bg 1_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f8b68cba07d86d0800000000000000
+      internalID: -2986607094772560080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
